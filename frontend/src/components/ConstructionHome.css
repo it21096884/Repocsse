@@ -1,0 +1,24 @@
+/* ConstructionHome.css */
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    text-align: center;
+  }
+  
+  .button-link:hover {
+    background-color: #0056b3;
+  }
+  
+  .button-link,
+  .button-link:hover {
+    color: #fff !important; /* Force the color to be white */
+    text-decoration: none !important; /* Force no text decoration */
+  }
+  
